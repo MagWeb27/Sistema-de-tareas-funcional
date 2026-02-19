@@ -30,11 +30,9 @@ Python 3.14.3: Lenguaje principal.
 Git/GitHub: Control de versiones y despliegue.
 
 📈 Próximas Mejoras (Roadmap)
-[ ] Persistencia de datos: Guardar las tareas en un archivo .json o .txt para no perderlas al cerrar el programa.
+[✅] Persistencia de datos: Guardar las tareas en un archivo .json o .txt para no perderlas al cerrar el programa.
 
-[ ] Validaciones: Evitar la creación de tareas con títulos vacíos.
-
-[ ] Fechas: Agregar fecha de creación y fecha límite a cada tarea.
+[✅] Validaciones: Evitar la creación de tareas con títulos vacíos.
 
 👤 Autor
 MagWeb27 - Perfil de GitHub
