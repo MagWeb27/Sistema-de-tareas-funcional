@@ -2,11 +2,16 @@
     {
         "id": 1,
         "title": "Subir commit",
-        "completed": false
+        "completed": true
     },
     {
         "id": 2,
         "title": "Estudiar python y flask",
         "completed": true
+    },
+    {
+        "id": 3,
+        "title": "Estudiar patrones de diseño",
+        "completed": false
     }
 ]
