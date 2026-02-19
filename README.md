@@ -22,7 +22,7 @@ Un gestor de tareas sencillo y funcional desarrollado en **Python**. Este proyec
 
 3. **Ejecuta la aplicación:**
    ```bash
-    python nombre_de_tu_archivo.py
+    python main.py
 
 🛠️ Tecnologías utilizadas
 Python 3.14.3: Lenguaje principal.
